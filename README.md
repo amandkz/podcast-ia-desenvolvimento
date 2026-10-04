@@ -62,7 +62,8 @@ Utilize os prompts estruturados neste repositório para criar um podcast de mane
     </td>
     <td style="border: none; vertical-align: middle; padding-left: 20px;">
       <a href="https://github.com/amandkz" target="_blank">GitHub</a> | 
-      <a href="https://www.linkedin.com/in/vasconceloscontato" target="_blank">LinkedIn</a>
+      <a href="https://www.linkedin.com/in/vasconceloscontato" target="_blank">LinkedIn</a> | 
+      <a href="https://instagram.com/amandkz" target="_blank">Instagram</a>
     </td>
   </tr>
 </table>
