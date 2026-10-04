@@ -1,6 +1,3 @@
-# podcast-ia-desenvolvimento
-Podcast gerado por IA sobre o uso de Inteligência Artificial por estudantes iniciantes em Análise e Desenvolvimento de Sistemas (ADS).
-
 <p align="center">
   <img src="https://via.placeholder.com/150" alt="Capa do Podcast" width="200" style="border-radius: 50%;">
 </p>
@@ -16,26 +13,24 @@ Podcast gerado por IA sobre o uso de Inteligência Artificial por estudantes ini
 
 > ℹ️ NOTE: Este é o repositório desenvolvido para o desafio prático da **DIO**, aplicando Inteligência Artificial na criação de conteúdos educacionais.
 
-Projeto com o objetivo de gerar um podcast voltado para estudantes iniciantes em **Análise e Desenvolvimento de Sistemas**, discutindo o uso de IA como aliada ou atalho[cite: 1].
-Utilizar uma esteira de prompts para gerar cada etapa do processo criativo[cite: 1].
+Projeto com o objetivo de gerar um podcast voltado para estudantes iniciantes em **Análise e Desenvolvimento de Sistemas**, discutindo o uso de IA como aliada no desenvolvimento.
+Utilizar uma esteira de prompts para gerar cada etapa do processo criativo.
 
 ---
 
 ## 💻 Tecnologias utilizadas no projeto
 
-* **ChatGPT:** Criação e refinamento do roteiro[cite: 1].
-* **Midjourney / DALL-E:** Criação de capas e identidade visual[cite: 1].
-* **ElevenLabs:** Síntese de voz hiper-realista[cite: 1].
-* **Capcut / Editor de Áudio:** Tratamento de áudio e adição de trilha sonora[cite: 1, 2].
+* **Gemini:** Criação e refinamento do roteiro.
+* **Midjourney / DALL-E:** Criação de capas e identidade visual.
+* **Capcut / Editor de Áudio:** Tratamento de áudio e adição de trilha sonora.
 
 ---
 
 ## ✨ Como foi feito?
 
-* **Roteiro gerado via ChatGPT:** Focado nos desafios dos calouros de ADS[cite: 1].
-* **Áudio gerado pela ElevenLabs:** Narração dinâmica com voz natural[cite: 1].
-* **Midjourney Para gerar capas:** Ilustração conceitual do tema[cite: 1].
-* **Editor de áudio para tratar áudio e adicionar sons de fundo**[cite: 1].
+* **Roteiro gerado via Gemini:** Focado nos desafios dos calouros de ADS.
+* **Midjourney Para gerar capas:** Ilustração conceitual do tema.
+* **Editor de áudio CAPCUT para tratar áudio e adicionar sons de fundo**.
 
 ---
 
@@ -48,14 +43,29 @@ Utilizar uma esteira de prompts para gerar cada etapa do processo criativo[cite:
 
 ## ⚙️ Instruções de execução
 
-Utilize os prompts estruturados neste repositório para criar um podcast de maneira automatizada, para isso siga o passo a passo abaixo[cite: 2]:
+Utilize os prompts estruturados neste repositório para criar um podcast de maneira automatizada, para isso siga o passo a passo abaixo:
 
-* 🤖 1. Use os prompts de roteiro no **ChatGPT**[cite: 2].
-* 🤖 2. Use o texto gerado pelo ChatGPT no **ElevenLabs**[cite: 2].
-* 🤖 3. Use os prompts de artes no **Midjourney** (ou gerador de imagem de sua preferência)[cite: 2].
+* 🤖 1. Use os prompts de roteiro no **Gemini**.
+* 🤖 2. Use os prompts de artes no **Midjourney** (ou gerador de imagem de sua preferência).
 
 ---
 
-## 🧑‍💻 Autor
+## 🧑‍💻 Autora
 
-Feito com 💜 por [O seu nome aqui].
+<table style="border: none;">
+  <tr>
+    <td align="center" style="border: none;">
+      <a href="https://github.com/amandkz">
+        <img src="https://github.com/amandkz.png" width="100px;" alt="Foto de Perfil"/><br>
+        <b>Amanda</b>
+      </a>
+    </td>
+    <td style="border: none; vertical-align: middle; padding-left: 20px;">
+      <a href="https://github.com/amandkz" target="_blank">GitHub</a> | 
+      <a href="https://www.linkedin.com/in/vasconceloscontato" target="_blank">LinkedIn</a>
+    </td>
+  </tr>
+</table>
+
+---
+<p align="center">Feito com 💜 por Amanda Vasconcelos </p>
