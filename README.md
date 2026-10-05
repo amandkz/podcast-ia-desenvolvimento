@@ -70,5 +70,3 @@ Utilize os prompts estruturados neste repositório para criar um podcast de mane
 
 ---
 <p align="center">Feito com 💜 por Amanda Vasconcelos</p>
----
-<p align="center">Feito com 💜 por Amanda Vasconcelos </p>
