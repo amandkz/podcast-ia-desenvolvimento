@@ -27,4 +27,4 @@ Use a IA como uma mentora, não como uma muleta. Peça para ela explicar o erro,
 
 Gostou do papo? Então já compartilha esse episódio com aquele colega de turma que passa o dia inteiro gerando código que ele mesmo não entende.
 
-Até a próxima, e bons códigos!"
+Até a próxima, e bons estudos!"
