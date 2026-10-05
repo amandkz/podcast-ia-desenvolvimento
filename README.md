@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://via.placeholder.com/150" alt="Capa do Podcast" width="200" style="border-radius: 50%;">
+  <img src="capa-podcast.jpg.jpg" alt="Capa do Podcast" width="200" style="border-radius: 50%;">
 </p>
 
 <p align="center">preview do podcast</p>
