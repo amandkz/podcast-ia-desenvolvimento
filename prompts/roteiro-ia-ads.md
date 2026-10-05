@@ -18,7 +18,7 @@ Host:
 
 O problema real não é usar a IA. O problema é como você usa.
 
-Se você copia e cola a solução inteira da IA para o seu trabalho sem entender patavinas do que está escrito ali, você está cavando a sua própria cova para a próxima prova ou, pior, para a sua primeira entrevista técnica. Na hora do 'vamos ver', o compilador da vida real não vai ter um prompt para você copiar o código."
+Se você copia e cola a solução inteira da IA para o seu trabalho sem entender bulufas do que está escrito ali, você está cavando a sua própria cova para a próxima prova ou, pior, para a sua primeira entrevista técnica. Na hora do 'vamos ver', o compilador da vida real não vai ter um prompt para você copiar o código."
 
 [A REGRA DE OURO E CONCLUSÃO] (1:15 - 2:00)
 Host:
