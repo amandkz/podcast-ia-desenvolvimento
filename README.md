@@ -2,11 +2,6 @@
   <img src="https://via.placeholder.com/150" alt="Capa do Podcast" width="200" style="border-radius: 50%;">
 </p>
 
-<p align="center">
-  <a href="https://dio.me/"><img src="https://img.shields.io/badge/DIO-Code%20The%20Future-000?style=flat-square&logo=dio" alt="DIO"></a>
-  <a href="#"><img src="https://img.shields.io/badge/PODCAST-LIVE%20CODE-red?style=flat-square" alt="Live Code"></a>
-</p>
-
 <p align="center">preview do podcast</p>
 
 # Projeto Podcast Gerado por I.A.s - ADS
