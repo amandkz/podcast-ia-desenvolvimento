@@ -24,8 +24,9 @@ Utilizar uma esteira de prompts para gerar cada etapa do processo criativo.
 ## ✨ Como foi feito?
 
 * **Roteiro gerado via Gemini:** Focado nos desafios dos calouros de ADS.
+* **Narração e voz autoral:** Áudio gravado e interpretado pela própria autora, trazendo identidade e personalidade ao episódio.
 * **Leonardo.ai para gerar capas:** Ilustração conceitual do tema.
-* **Editor de áudio CAPCUT para tratar áudio e adicionar sons de fundo**.
+* **CapCut:** Tratamento de áudio, mixagem com trilha sonora e edição final.
 
 ---
 
