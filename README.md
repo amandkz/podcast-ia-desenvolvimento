@@ -16,7 +16,7 @@ Utilizar uma esteira de prompts para gerar cada etapa do processo criativo.
 ## 💻 Tecnologias utilizadas no projeto
 
 * **[Gemini](https://gemini.google.com/):** Criação e refinamento do roteiro.
-* **[Midjourney](https://www.midjourney.com/app/):** Criação de capas e identidade visual.
+* **[Leonardo.ai](https://leonardo.ai/):** Criação de capas e identidade visual.
 * **[CapCut](https://www.capcut.com/pt-br/):** Tratamento de áudio e adição de trilha sonora.
 
 ---
@@ -24,7 +24,7 @@ Utilizar uma esteira de prompts para gerar cada etapa do processo criativo.
 ## ✨ Como foi feito?
 
 * **Roteiro gerado via Gemini:** Focado nos desafios dos calouros de ADS.
-* **Midjourney para gerar capas:** Ilustração conceitual do tema.
+* **Leonardo.ai para gerar capas:** Ilustração conceitual do tema.
 * **Editor de áudio CAPCUT para tratar áudio e adicionar sons de fundo**.
 
 ---
