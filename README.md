@@ -24,7 +24,7 @@ Utilizar uma esteira de prompts para gerar cada etapa do processo criativo.
 ## ✨ Como foi feito?
 
 * **Roteiro gerado via Gemini:** Focado nos desafios dos calouros de ADS.
-* **Midjourney Para gerar capas:** Ilustração conceitual do tema.
+* **Midjourney para gerar capas:** Ilustração conceitual do tema.
 * **Editor de áudio CAPCUT para tratar áudio e adicionar sons de fundo**.
 
 ---
