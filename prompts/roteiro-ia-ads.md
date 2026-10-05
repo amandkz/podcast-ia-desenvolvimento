@@ -7,7 +7,7 @@ Duração estimada: Aprox. 2 minutos
 Tom: Motivador, pé no chão, focado em boas práticas para quem está começando na programação.
 
 [INTRODUÇÃO] (0:00 - 0:30)
-(Efeitos sonoros opcionais: Trilha de fundo leve, estilo tecnologia/lo-fi )
+(Efeitos sonoros opcionais: Trilha de fundo leve, estilo tecnologia/lo-fi)
 
 Host (Voz animada e acolhedora):
 "Fala, dev! Seja muito bem-vindo ao nosso podcast. Se você acabou de entrar no curso de Análise e Desenvolvimento de Sistemas, eu tenho certeza de que já passou por isso: você abre a IDE, bate de frente com um erro cabuloso de lógica, olha para a tela em branco... e a tentação de abrir o ChatGPT e pedir o código pronto é gigante, né? Mas calma. Hoje a gente vai falar sobre o elefante na sala: a Inteligência Artificial é a melhor amiga do estudante iniciante ou o atalho perfeito para o fracasso? Bora descobrir!"
