@@ -32,7 +32,7 @@ Utilizar uma esteira de prompts para gerar cada etapa do processo criativo.
 ## 📚 Materiais
 
 * [Link do Roteiro e Prompts Detalhados](./prompts/roteiro-ia-ads.md)
-* [Arquivo de Áudio Final (.mp3)](./output/)
+* [Arquivo de Áudio Final (.ogg)](./prompts/podcast-audio-final.ogg)
 
 ---
 
