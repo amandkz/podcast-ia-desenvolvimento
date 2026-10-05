@@ -31,17 +31,19 @@ Utilizar uma esteira de prompts para gerar cada etapa do processo criativo.
 
 ## 📚 Materiais
 
-* [Link do Roteiro Detalhado](./prompts/roteiro-ia-ads.md)
+* [Link do Roteiro e Prompts Detalhados](./prompts/roteiro-ia-ads.md)
 * [Arquivo de Áudio Final (.mp3)](./output/)
 
 ---
 
 ## ⚙️ Instruções de execução
 
-Utilize os prompts estruturados neste repositório para criar um podcast de maneira automatizada, para isso siga o passo a passo abaixo:
+Utiliza os prompts e orientações estruturadas neste repositório para recriar ou acompanhar o projeto, seguindo o passo a passo abaixo:
 
-* 🤖 1. Use os prompts de roteiro no **Gemini**.
-* 🤖 2. Use os prompts de artes no **Midjourney** (ou gerador de imagem de sua preferência).
+* 🤖 1. Utilize os prompts estruturados no **[Gemini](https://gemini.google.com/)** para refinar o roteiro.
+* 🎙️ 2. Faça a gravação da narração com a sua própria voz utilizando o roteiro estruturado.
+* 🎨 3. Utilize os prompts gerados no **[Leonardo.ai](https://leonardo.ai/)** (ou outra ferramenta de sua preferência) para criar a capa.
+* ✂️ 4. Faça o tratamento final do áudio e a montagem no **[CapCut](https://www.capcut.com/pt-br/)**.
 
 ---
 
