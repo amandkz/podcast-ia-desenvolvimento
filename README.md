@@ -56,7 +56,7 @@ Utilize os prompts estruturados neste repositório para criar um podcast de mane
   <tr>
     <td align="center" style="border: none;">
       <a href="https://github.com/amandkz">
-        <img src="https://github.com/amandkz.png" width="100px;" alt="Foto de Perfil"/><br>
+        <img src="https://raw.githubusercontent.com/amandkz/podcast-ia-desenvolvimento/main/capa-perfil.jpeg" width="100px;" alt="Foto de Perfil"/><br>
         <b>Amanda</b>
       </a>
     </td>
@@ -68,5 +68,7 @@ Utilize os prompts estruturados neste repositório para criar um podcast de mane
   </tr>
 </table>
 
+---
+<p align="center">Feito com 💜 por Amanda Vasconcelos</p>
 ---
 <p align="center">Feito com 💜 por Amanda Vasconcelos </p>
